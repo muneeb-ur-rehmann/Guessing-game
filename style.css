@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: lightskyblue;
+    color: white;
+}
+#wrapper{
+    border:1px solid red;
+    background-color: hotpink;
+    max-width: 400px;
+    min-height: 500px;
+    border-radius: 20px;
+    margin:20px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.instruction{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.instruction2{
+    margin-left: 16px;
+    margin-bottom: 15px;
+}
+#fullform{
+    margin-left:60px;
+    margin-top:20px;
+    padding-bottom: 10px;
+}
+#input{
+    margin-top: 15px;
+    margin-left: 25px;
+}
+#contain{
+    margin-left:80px;
+    margin-top:20px;
+    padding-bottom: 10px;
+}
+#userinput{
+    border:none;
+    width:70px;
+    height: 30px;
+}
+#userinput:hover{
+    background-color: hotpink;
+    color: white;
+    border:1px solid white;
+}
+#input{
+    border:none;
+    width:100px;
+    height: 30px;
+    margin-left: 40px;
+}
